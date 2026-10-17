@@ -1,0 +1,37 @@
+[theme]
+base = "light"
+
+# Warm, kitchen-table palette: terracotta accent on a soft paper background.
+primaryColor = "#C2410C"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#FAF7F2"
+textColor = "#23201D"
+linkColor = "#C2410C"
+borderColor = "#E7E0D6"
+
+redColor = "#B42318"
+orangeColor = "#C2410C"
+yellowColor = "#A16207"
+greenColor = "#15803D"
+blueColor = "#1D4ED8"
+violetColor = "#7E22CE"
+grayColor = "#57534E"
+
+baseRadius = "medium"
+buttonRadius = "medium"
+showWidgetBorder = true
+showSidebarBorder = true
+
+# Editorial headings over a clean UI sans.
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap"
+headingFont = "'Playfair Display':https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&display=swap"
+headingFontSizes = ["30px", "24px", "20px", "17px", "15px", "13px"]
+headingFontWeights = [600, 600, 600, 600, 600, 600]
+
+dataframeHeaderBackgroundColor = "#F3EDE4"
+dataframeBorderColor = "#E7E0D6"
+
+[theme.sidebar]
+backgroundColor = "#FAF7F2"
+secondaryBackgroundColor = "#F3EDE4"
+borderColor = "#E7E0D6"

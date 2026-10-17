@@ -156,6 +156,12 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# Streamlit agent skills (environment-specific symlinks)
+.agents/skills/developing-with-streamlit
+
+# Local agent tooling (environment-specific)
+.opencode/
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore

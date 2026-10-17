@@ -1,7 +1,7 @@
 [project]
-name = "blank-app-template"
+name = "whattocooknext"
 version = "0.1.0"
-description = "A simple Streamlit app template."
+description = "A Streamlit meal planner: weekly menus, a merged grocery list and prep reminders."
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
